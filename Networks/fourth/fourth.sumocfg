@@ -1,0 +1,12 @@
+<configuration>
+
+<input>
+<net-file value="fourth.net.xml"/>
+<route-files value="fourthRoutes.rou.xml"/>
+</input>
+
+<output>
+</output>
+
+
+</configuration>

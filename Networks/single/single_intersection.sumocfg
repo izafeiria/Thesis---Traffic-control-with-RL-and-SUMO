@@ -1,0 +1,12 @@
+<configuration>
+
+<input>
+<net-file value="single_intersection.net.xml"/>
+<route-files value="routes.rou.xml"/>
+</input>
+
+<output>
+</output>
+
+
+</configuration>
